@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 // print subarrays
 
 public class Array_07 {

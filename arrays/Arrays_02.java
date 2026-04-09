@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 public class Arrays_02 {
     public static int linearSearch(int numbers[], int key){

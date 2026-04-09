@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 public class Array_06 {
     public static void printparirs(int numbers[]){
