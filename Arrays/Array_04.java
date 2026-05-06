@@ -7,7 +7,7 @@ public class Array_04 {
         while(start <= end){
             int mid = (start + end)/2;
 
-            // Compraisons
+            // Comparisons
             if(numbers[mid] == key){
                 return mid;
             }
