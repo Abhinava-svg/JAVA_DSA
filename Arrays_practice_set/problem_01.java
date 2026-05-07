@@ -11,7 +11,7 @@ public class problem_01{
         return false;
     }
     public static void main(String[] args) {
-        int numbers [] = {1, 2, 3};
+        int numbers [] = {1, 2, 3, 1};
         System.out.println(repetitive(numbers));
     }
 }
