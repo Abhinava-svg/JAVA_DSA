@@ -34,7 +34,7 @@ public class problem_02 {
     }
     public static void main(String[] args) {
         int numbers[] = {4, 5, 6, 7, 0, 1, 2};
-        int target = 3;
+        int target = 0;
         System.out.println("target matches in the input : " + BinarySearch(numbers, target));
     }
 }
