@@ -15,7 +15,7 @@ public class problem_03 {
         return maxprofit;
     }
     public static void main(String[] args) {
-        int stocks[] = {7, 1, 5, 3, 6,  4};
+        int stocks[] = {7, 1, 5, 3, 6, 4};
         System.out.println(BuyandSellstocks(stocks));
     }
 }
