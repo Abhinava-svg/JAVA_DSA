@@ -30,7 +30,7 @@ public class two_D_01_Arrays{
             }
             System.out.println();
         }
-        Search(matrix,5);
+        Search(matrix,5 );
         sc.close();
     } 
 }
