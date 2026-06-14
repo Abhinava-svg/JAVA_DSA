@@ -1,4 +1,4 @@
-public class two_D_Arrays_03 { //{o(n^2)}
+public class two_D_03_Arrays { //{o(n^2)}
     public static int diagonalsum(int matrix[][]){
         int sum = 0;
 
